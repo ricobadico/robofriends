@@ -1,3 +1,5 @@
+Created for Andrei Neagoie's "The Complete Web Developer in 2019: Zero to Mastery" course on Udemy. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
